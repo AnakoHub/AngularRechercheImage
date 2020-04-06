@@ -4,11 +4,6 @@ This is an Angular project showcasing a simple photo lookup using a public Flick
 
 ![](demo.gif)
 
-
-More information about Flickr API:
-
-https://www.flickr.com/services/api/
-
 ## Installation
 
 In the project folder, type:
